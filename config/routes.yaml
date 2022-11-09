@@ -1,0 +1,37 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+ej1:
+    path: /ej1
+    controller: App\Controller\DefaultController::ej1
+
+ej2:
+    path: /ej2
+    controller: App\Controller\DefaultController::ej2
+
+ej3:
+    path: /ej3
+    controller: App\Controller\DefaultController::ej3
+
+ej4:
+    path: /ej4
+    controller: App\Controller\DefaultController::ej4
+
+ej5:
+    path: /ej5/{id}
+    controller: App\Controller\DefaultController::ej5
+
+ej6:
+    path: /ej6
+    controller: App\Controller\DefaultController::ej6
+
+ej7:
+    path: /ej7
+    controller: App\Controller\DefaultController::ej7
+
+ej8:
+    path: /ej8
+    controller: App\Controller\DefaultController::ej8
+
+
